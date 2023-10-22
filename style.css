@@ -61,5 +61,11 @@ h3 {
 
 .btn:hover {
   background-color: #fff;
-  color: #601d96;
+  color: #ccc2d4;
+}
+
+a{
+    font-family: "Urbanist" , sans-serif;
+    font-size: 15px;
+    color: aquamarine;
 }
